@@ -9,7 +9,7 @@ import Image from '../images/Ismael.jpg'
 
 export const NavbarComponent = () => {
   return (
-    <Navbar fluid={true} className="bg-black p-3">
+    <Navbar fluid={true} className="bg-black p-3 flex-wrap">
       <Navbar.Container className="flex items-center justify-between">
         <Navbar.Container className="flex items-center">
         </Navbar.Container>

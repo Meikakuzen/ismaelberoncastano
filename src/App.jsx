@@ -5,7 +5,7 @@ import { CardComponent } from './components/CardComponent'
 
 export const App = () => {
   return (
-    <div className="bg-orange-500 container max-h-full min-h-full">
+    <div className="bg-orange-500 container max-h-full min-h-full min-w-full max-w-full">
     <NavbarComponent />
     <CardComponent />
   
