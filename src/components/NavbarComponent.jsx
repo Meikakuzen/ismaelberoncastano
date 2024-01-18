@@ -16,10 +16,10 @@ export const NavbarComponent = () => {
 
           <h1 style={{fontFamily: 'Playfair Display'}} className="text-5xl text-white font-serif">FRAGMENTS PER COMPARTIR</h1>
       
-        <Navbar.Container className="flex flex-wrap mr-3">
+       
         <PopoverComponent />
       
-        </Navbar.Container>
+       
       
       </Navbar.Container>
     </Navbar>
