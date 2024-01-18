@@ -15,9 +15,8 @@ export const CardComponent = () => {
         
       <Card className="bg-black mt-30 flex text-center">
         <Card.Description className="font-bold text-2xl text-white">
-         Es un estudi modest pero funcional, amb Cubase Artist y Kontakt.
-         La meva idea més que produïr es composar i fer col-laboracions.
-         Soc molt creatiu, versàtil i compromès amb la música.
+         Es un estudi modest però funcional, amb Cubase Artist y Kontakt.
+         La meva idea es més que produïr composar i fer col-laboracions.
          El meu primer instrument es la guitarra. També toco el baix, l'ukelele, congas, calaix, djembé i teclats.
         </Card.Description>
       </Card>
