@@ -4,7 +4,7 @@ import SoundCloud from '../components/SoundCloud'
 
 export const CardComponent = () => {
   return (
-        <div className="sm:flex-col sm:items-center md:w-full md:justify-center p-10">
+        <div className="sm:flex-col sm:items-center md:w-full md:items-center p-10">
       <Card className="mt-2 p-11 bg-yellow-300 flex text-center">
         <Card.Description className="font-bold text-2xl text-black">
           Aquesta es una web senzilla dissenyada per mostrar fragments de peçes composades per mi enregistrades
